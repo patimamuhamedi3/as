@@ -62,7 +62,7 @@ MIDDLEWARE = [
 
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',  # React frontend URL
+ "http://invetory-management-demo.s3-website.eu-north-1.amazonaws.com/" 
 ]
 
 ROOT_URLCONF = 'inventory_management.urls'
